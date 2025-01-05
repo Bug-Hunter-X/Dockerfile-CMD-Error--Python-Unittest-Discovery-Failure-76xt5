@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles related to running unit tests. The initial Dockerfile has a problem with the CMD instruction, causing the container to fail during startup. The solution shows how to correctly configure the CMD instruction and use the correct path for the unit tests.
